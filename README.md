@@ -1,6 +1,6 @@
 # Bash-scripting
 Practicing bash scripting
 
-## Websites that I will practic on:
+## Websites that I will practice on:
   exercism.org
   hackerrank.com
