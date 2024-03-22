@@ -2,5 +2,5 @@
 Practicing bash scripting
 
 ## Websites that I will practice on:
-  exercism.org
-  hackerrank.com
+  - exercism.org
+  - hackerrank.com
